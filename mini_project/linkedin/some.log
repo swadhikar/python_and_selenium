@@ -1,0 +1,193 @@
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    ../../../PySelenium/.DS_Store
+	deleted:    ../../../PySelenium/.idea/PySelenium.iml
+	deleted:    ../../../PySelenium/.idea/dbnavigator.xml
+	deleted:    ../../../PySelenium/.idea/encodings.xml
+	deleted:    ../../../PySelenium/.idea/misc.xml
+	deleted:    ../../../PySelenium/.idea/modules.xml
+	deleted:    ../../../PySelenium/.idea/workspace.xml
+	deleted:    ../../../PySelenium/Screenshots/SampleScreenDev.png
+	deleted:    ../../../PySelenium/Screenshots/directory_create_success.png
+	deleted:    ../../../PySelenium/Screenshots/firefox_install_success.png
+	deleted:    ../../../PySelenium/Screenshots/linked_in_login_page.png
+	deleted:    ../../../PySelenium/Screenshots/login_success.png
+	deleted:    ../../../PySelenium/Screenshots/logo_success.png
+	deleted:    ../../../PySelenium/Screenshots/logo_successMar_18_2017_16_45_42.png
+	deleted:    ../../../PySelenium/Screenshots/logo_successMar_18_2017_16_46_40.png
+	deleted:    ../../../PySelenium/Screenshots/tabs_success.png
+	deleted:    ../../../PySelenium/Testcases/__init__.py
+	deleted:    ../../../PySelenium/Testcases/geckodriver.log
+	deleted:    ../../../PySelenium/Testcases/social_network.py
+	deleted:    ../../../PySelenium/Testcases/tce.py
+	deleted:    ../../../PySelenium/browser_framework/.DS_Store
+	deleted:    ../../../PySelenium/browser_framework/__init__.py
+	deleted:    ../../../PySelenium/browser_framework/__init__.pyc
+	deleted:    ../../../PySelenium/browser_framework/basetest.py
+	deleted:    ../../../PySelenium/browser_framework/basetest.pyc
+	deleted:    ../../../PySelenium/browser_framework/browser.py
+	deleted:    ../../../PySelenium/browser_framework/driver_util.py
+	deleted:    ../../../PySelenium/browser_framework/driver_util.pyc
+	deleted:    ../../../PySelenium/browser_framework/geckodriver.log
+	deleted:    ../../../PySelenium/browser_framework/xml_parser.py
+	deleted:    ../../../PySelenium/db_scripts/BA.sql
+	deleted:    ../../../PySelenium/db_scripts/BA~1.sql
+	deleted:    ../../../PySelenium/db_scripts/Localhost.sql
+	deleted:    ../../../PySelenium/lib/__init__.py
+	deleted:    ../../../PySelenium/lib/__init__.pyc
+	deleted:    ../../../PySelenium/lib/lib_command.py
+	deleted:    ../../../PySelenium/lib/lib_command.pyc
+	deleted:    ../../../PySelenium/lib/lib_file_util.py
+	deleted:    ../../../PySelenium/lib/lib_file_util.pyc
+	deleted:    ../../../PySelenium/lib/lib_os_util.py
+	deleted:    ../../../PySelenium/lib/lib_os_util.pyc
+	deleted:    ../../../PySelenium/lib/variables.py
+	deleted:    ../../../PySelenium/lib/variables.pyc
+	deleted:    ../../../PySelenium/log/app_log.log
+	deleted:    ../../../PySelenium/log_util/__init__.py
+	deleted:    ../../../PySelenium/log_util/__init__.pyc
+	deleted:    ../../../PySelenium/log_util/logger.py
+	deleted:    ../../../PySelenium/log_util/logger.pyc
+	deleted:    ../../../PySelenium/log_util/simple.log
+	deleted:    ../../../PySelenium/mini_project/fb_bot.py
+	deleted:    ../../../PySelenium/mini_project/html_generator/__init__.py
+	deleted:    ../../../PySelenium/mini_project/html_generator/file.html
+	deleted:    ../../../PySelenium/mini_project/html_generator/html_generator.py
+	deleted:    ../../../PySelenium/mini_project/html_generator/result.png
+	deleted:    ../../../PySelenium/mini_project/html_generator/sample.html
+	deleted:    ../../../PySelenium/mini_project/linkedin_bot.py
+	deleted:    ../../../PySelenium/mini_project/social_network_model/__init__.py
+	deleted:    ../../../PySelenium/mini_project/social_network_model/basic_monitor.py
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_bot_1.pyc
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_model_1.pyc
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_post.py
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_post.pyc
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_posts.txt
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_util.py
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_util.pyc
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_wall.py
+	deleted:    ../../../PySelenium/mini_project/social_network_model/fb_wall.pyc
+	deleted:    ../../../PySelenium/mini_project/social_network_model/passwords.csv
+	deleted:    ../../../PySelenium/mini_project/xml_parser/New_Database.xml
+	deleted:    ../../../PySelenium/mini_project/xml_parser/__init__.py
+	deleted:    ../../../PySelenium/mini_project/xml_parser/customer.xml
+	deleted:    ../../../PySelenium/mini_project/xml_parser/customer_parser.py
+	deleted:    ../../../PySelenium/misc/books.xml
+	deleted:    ../../../PySelenium/misc/log_test.py
+	deleted:    ../../../PySelenium/misc/sample.log
+	deleted:    ../../../PySelenium/misc/str_formatter.py
+	deleted:    ../../../PySelenium/python_practise/BoA/comprehensions/comprehensions.py
+	deleted:    ../../../PySelenium/python_practise/BoA/database/__init__.py
+	deleted:    ../../../PySelenium/python_practise/BoA/database/employee.py
+	deleted:    ../../../PySelenium/python_practise/BoA/database/first_connection.py
+	deleted:    ../../../PySelenium/python_practise/BoA/database/oracledriver.py
+	deleted:    ../../../PySelenium/python_practise/BoA/database/second_connection.py
+	deleted:    ../../../PySelenium/python_practise/BoA/file_operations/file.txt
+	deleted:    ../../../PySelenium/python_practise/BoA/file_operations/file_io.py
+	deleted:    ../../../PySelenium/python_practise/BoA/generators.py
+	deleted:    ../../../PySelenium/python_practise/BoA/ip_address.py
+	deleted:    ../../../PySelenium/python_practise/BoA/iterators.py
+	deleted:    ../../../PySelenium/python_practise/BoA/json_operations/config.json
+	deleted:    ../../../PySelenium/python_practise/BoA/json_operations/in.json
+	deleted:    ../../../PySelenium/python_practise/BoA/json_operations/in.yml
+	deleted:    ../../../PySelenium/python_practise/BoA/json_operations/main.py
+	deleted:    ../../../PySelenium/python_practise/BoA/line_number_cutter.py
+	deleted:    ../../../PySelenium/python_practise/BoA/patterns.py
+	deleted:    ../../../PySelenium/python_practise/BoA/patterns_2.py
+	deleted:    ../../../PySelenium/python_practise/BoA/regex_match.py
+	deleted:    ../../../PySelenium/python_practise/BoA/regex_search.py
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/first_thread.py
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_255.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_256.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_257.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_258.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_259.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_260.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_261.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_262.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_263.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/images/image_264.jpg
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/terminate_thread.py
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/thread_join.py
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/threads_1.py
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/threads_2.py
+	deleted:    ../../../PySelenium/python_practise/BoA/threads/threads_3.py
+	deleted:    ../../../PySelenium/python_practise/book.json
+	deleted:    ../../../PySelenium/python_practise/collections/py_counter.py
+	deleted:    ../../../PySelenium/python_practise/collections/py_ordered_dict.py
+	deleted:    ../../../PySelenium/python_practise/dates_test.py
+	deleted:    ../../../PySelenium/python_practise/json_test.py
+	deleted:    ../../../PySelenium/python_practise/log.txt
+	deleted:    ../../../PySelenium/python_practise/log_test.py
+	deleted:    ../../../PySelenium/python_practise/log_test2.py
+	deleted:    ../../../PySelenium/python_practise/ls_out.txt
+	deleted:    ../../../PySelenium/python_practise/multiprocess/__init__.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/__init__.pyc
+	deleted:    ../../../PySelenium/python_practise/multiprocess/sides.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/sides.pyc
+	deleted:    ../../../PySelenium/python_practise/multiprocess/tests/__init__.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/tests/multi_lock_test.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/tests/multi_test_manager.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/tests/multi_test_pool.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/tests/multi_test_pool.pyc
+	deleted:    ../../../PySelenium/python_practise/multiprocess/tests/multi_test_state.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/transaction.py
+	deleted:    ../../../PySelenium/python_practise/multiprocess/transaction.pyc
+	deleted:    ../../../PySelenium/python_practise/numpy/numpy_array_create_1.py
+	deleted:    ../../../PySelenium/python_practise/numpy/numpy_array_create_2.py
+	deleted:    ../../../PySelenium/python_practise/numpy/numpy_basics.py
+	deleted:    ../../../PySelenium/python_practise/oo_test.py
+	deleted:    ../../../PySelenium/python_practise/pattern_matching.py
+	deleted:    ../../../PySelenium/python_practise/sometest.py
+	deleted:    ../../../PySelenium/python_practise/sp_test.py
+	deleted:    ../../../PySelenium/python_practise/stackoverflow/csv_date.py
+	deleted:    ../../../PySelenium/python_practise/stackoverflow/filename.csv
+	deleted:    ../../../PySelenium/python_practise/stackoverflow/temp.csv
+	deleted:    ../../../PySelenium/python_practise/static_logger.log
+	deleted:    ../../../PySelenium/python_practise/test.py
+	deleted:    ../../../PySelenium/python_practise/tutorial/encapsulation.py
+	deleted:    ../../../PySelenium/python_practise/tutorial/inheritance.py
+	deleted:    ../../../PySelenium/sql/sqlite3.sql
+	deleted:    ../../../PySelenium/util/__init__.py
+	deleted:    ../../../PySelenium/util/__init__.pyc
+	deleted:    ../../../PySelenium/util/log.py
+	deleted:    ../../../PySelenium/util/log.pyc
+	deleted:    ../../../PySelenium/util/simple.log
+	modified:   ../../.idea/workspace.xml
+	modified:   ../../browser_framework/driver_util.py
+	deleted:    ../../python_practise/book.json
+	deleted:    ../../python_practise/dates_test.py
+	deleted:    ../../python_practise/json/customer.json
+	deleted:    ../../python_practise/json_test.py
+	deleted:    ../../python_practise/log.txt
+	deleted:    ../../python_practise/log_test.py
+	deleted:    ../../python_practise/log_test2.py
+	deleted:    ../../python_practise/ls_out.txt
+	deleted:    ../../python_practise/oo_test.py
+	deleted:    ../../python_practise/pattern_matching.py
+	deleted:    ../../python_practise/sometest.py
+	deleted:    ../../python_practise/sp_test.py
+	deleted:    ../../python_practise/static_logger.log
+	deleted:    ../../python_practise/test.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	../../../.idea/misc.xml
+	../../../.idea/modules.xml
+	../../../.idea/pyselenium.iml
+	../../../.idea/vcs.xml
+	../../../.idea/workspace.xml
+	some.lo
+	../../python_practise/json/__init__.py
+	../../python_practise/json/__init__.pyc
+	../../python_practise/json/book.json
+	../../python_practise/json/json_test.py
+	../../../status.log
+
+no changes added to commit (use "git add" and/or "git commit -a")

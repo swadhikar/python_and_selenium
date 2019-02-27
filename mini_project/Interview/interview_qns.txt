@@ -1,0 +1,44 @@
+Common Interview Questions - Batch 1
+
+1. What is the difference between a List and a Tuple?
+
+2. Which is best in terms of performance? List or a Tuple? How?
+
+3. What is List Comprehensions? Write a simple example.
+
+4. How do you open file in 'append' mode.
+
+5. What are the various modes to open file?
+
+6. What is the meaning of: if __name__ == '__main__'
+
+7. What happens when we import a module from another module?
+
+8. What is list slicing?
+
+9. What is generator? Explain yield keyword.
+
+10.
+
+
+Common Interview Questions - Batch 2 (Non-Class based questions)
+
+1. How to fetch the last 2 elements of a list without using pop?
+
+2. how to reverse a list without using for loop?
+
+3. write a method implementing generator
+
+4. write code to create a list of squares of n numbers using comprehensions.
+
+5. write a program to find the biggest of n numbers without using for loops.
+
+6. what is isinstance, issubclass builtin functions in python?
+
+7. what is pass keyword
+
+8. how to import one method alone from a module and create alias?
+
+9. how does global keyword work? write a simple example.
+
+10. when to use static method? Give example.

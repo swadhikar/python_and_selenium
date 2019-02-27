@@ -1,0 +1,247 @@
+1487337070548	geckodriver	INFO	Listening on 127.0.0.1:49744
+1487337071541	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.drKd5YGTvSlp
+1487337071543	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337071565	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49753
+1487337097544	geckodriver	INFO	Listening on 127.0.0.1:49772
+1487337098552	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.zC41gpX3vDKW
+1487337098553	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337098559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49781
+1487337105062 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487337607930	geckodriver	INFO	Listening on 127.0.0.1:49897
+1487337608936	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.rkjH4AMxvy9n
+1487337608937	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337608939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49906
+1487337615495 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487337777583	geckodriver	INFO	Listening on 127.0.0.1:49973
+1487337778590	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.xeLFoUfOEi8P
+1487337778591	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337778603	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49982
+1487337785026 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487337816264	geckodriver	INFO	Listening on 127.0.0.1:50052
+1487337817269	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.Lst0cvZLKMNv
+1487337817270	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337817280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50061
+1487337823640 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+1487337826187	geckodriver	INFO	Listening on 127.0.0.1:50111
+1487337827199	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.aEm8SLzqkzAq
+1487337827200	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337827213	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50120
+1487337833701 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487337982727	geckodriver	INFO	Listening on 127.0.0.1:50223
+1487337983736	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.C1BTYiS59NAC
+1487337983737	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487337983749	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50232
+1487337990370 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338274930	geckodriver	INFO	Listening on 127.0.0.1:50344
+1487338275933	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.irdGodi3XE9f
+1487338275934	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338275945	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50353
+1487338281810 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338352971	geckodriver	INFO	Listening on 127.0.0.1:50425
+1487338353978	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.Nng9F3rw0r3U
+1487338353979	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338353990	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50434
+1487338359995 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338389983	geckodriver	INFO	Listening on 127.0.0.1:50506
+1487338390988	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.8EhoAsEBvvoV
+1487338390989	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338390999	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50515
+1487338398168 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338430624	geckodriver	INFO	Listening on 127.0.0.1:50589
+1487338431632	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.eyC7pgX8guZN
+1487338431633	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338431644	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50598
+1487338437449 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338472500	geckodriver	INFO	Listening on 127.0.0.1:50670
+1487338473506	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.LRSk4sFEZXdh
+1487338473507	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338473519	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50679
+1487338479836 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338551419	geckodriver	INFO	Listening on 127.0.0.1:50762
+1487338552422	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.ABgWEwPhNy2x
+1487338552423	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338552434	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50771
+1487338560184 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+console.warn: Asynchronous operation was aborted as selection changed.
+1487338586392	geckodriver	INFO	Listening on 127.0.0.1:50848
+1487338587396	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.vTHV57IRFG0z
+1487338587397	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338587407	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50857
+1487338593695 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338610453	geckodriver	INFO	Listening on 127.0.0.1:50924
+1487338611468	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.FCCPqZvybRQZ
+1487338611469	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338611488	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50933
+1487338617780 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338676205	geckodriver	INFO	Listening on 127.0.0.1:51037
+1487338677213	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.NXXh9JHu84cx
+1487338677214	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338677226	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51046
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338689680	geckodriver	INFO	Listening on 127.0.0.1:51071
+1487338691691	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.6SGUn7te25uI
+1487338691693	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338691708	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51080
+1487338698556 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338752638	geckodriver	INFO	Listening on 127.0.0.1:51150
+1487338753646	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.MGS8QZdpygLW
+1487338753647	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338753658	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51159
+1487338760109 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487338811793	geckodriver	INFO	Listening on 127.0.0.1:51228
+1487338812799	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.Xj3zR9KYSmri
+1487338812800	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487338812812	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51237
+1487338818947 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487345728913	geckodriver	INFO	Listening on 127.0.0.1:49573
+1487345729908	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.YJw8EsloLxgs
+1487345729908	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487345729931	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49582
+1487345737612 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487345744306 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1487346203437	geckodriver	INFO	Listening on 127.0.0.1:50139
+1487346203443	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.Df6hcDVcczRJ
+1487346203445	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487346203450	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50146
+1487346211608 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487346218013 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1487346447982	geckodriver	INFO	Listening on 127.0.0.1:50284
+1487346448987	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.PFZxg132M7WB
+1487346448988	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487346449000	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50293
+1487346456515 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487346462839 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1487346523875	geckodriver	INFO	Listening on 127.0.0.1:50377
+1487346524880	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.ePOupza9hTIZ
+1487346524881	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487346524892	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50386
+1487346532723 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487346539109 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1487346620944	geckodriver	INFO	Listening on 127.0.0.1:50471
+1487346621950	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.6WX2GUzQkDmb
+1487346621951	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487346621962	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50480
+1487346629263 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1487346635752 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488089121522	geckodriver	INFO	Listening on 127.0.0.1:54808
+1488089122519	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.39Pu95tP5Who
+1488089122521	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488089122563	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54817
+1488089129626 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488089135296 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488090192811	geckodriver	INFO	Listening on 127.0.0.1:55101
+1488090193795	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.DJe2CtyhbfbA
+1488090193796	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090193798	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55110
+1488090199762 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488090222382	geckodriver	INFO	Listening on 127.0.0.1:55179
+1488090223386	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.jQ7Gxlh9h29J
+1488090223387	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090223390	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55188
+1488090229370 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488090532694	geckodriver	INFO	Listening on 127.0.0.1:55329
+1488090533706	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.aFRBC3HsjoUq
+1488090533707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090533710	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55338
+1488090540307 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488090730867	geckodriver	INFO	Listening on 127.0.0.1:55510
+1488090731875	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.SLbEIhoZJ3qn
+1488090731876	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090731878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55519
+1488090737918 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488090743375 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488090837429	geckodriver	INFO	Listening on 127.0.0.1:55599
+1488090838437	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.ey7RacXqRm2E
+1488090838438	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090838441	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55608
+1488090844560 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+1488090850261	geckodriver	INFO	Listening on 127.0.0.1:55657
+1488090850273	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.QA1pec2iaHQ3
+1488090850276	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090850280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55664
+1488090856755 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488090862306 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488090953203	geckodriver	INFO	Listening on 127.0.0.1:55740
+1488090954218	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.Rm9Y3JiyTxdm
+1488090954219	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488090954222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55749
+1488090960663 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488090966240 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488091289528	geckodriver	INFO	Listening on 127.0.0.1:55872
+1488091289541	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.4coS3y3FDWRX
+1488091289542	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488091289547	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55879
+1488091296241 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488091301703 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488091846489	geckodriver	INFO	Listening on 127.0.0.1:55983
+1488091847495	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.1LRsFqNUkDVH
+1488091847497	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488091847511	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55992
+1488091853710 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488091859137 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488092020136	geckodriver	INFO	Listening on 127.0.0.1:56144
+1488092021138	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.QFzZxB5z6aoD
+1488092021139	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488092021144	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56153
+1488092069805	geckodriver	INFO	Listening on 127.0.0.1:56191
+1488092070810	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.vFxsUmBB3gbV
+1488092070810	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488092070823	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56200
+1488092213836	geckodriver	INFO	Listening on 127.0.0.1:56283
+1488092214841	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.JMVzi9nJgiBx
+1488092214843	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488092214855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56292
+1488092221226 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488092226742 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488092250022	geckodriver	INFO	Listening on 127.0.0.1:56374
+1488092251027	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.iox9G9Loyz4L
+1488092251028	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488092251041	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56383
+1488092257534 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488092262239 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488092395449	geckodriver	INFO	Listening on 127.0.0.1:56460
+1488092396457	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.8WrCb9AhbtuQ
+1488092396459	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488092396462	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56469
+1488092403075 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488092407594 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar
+1488092480035	geckodriver	INFO	Listening on 127.0.0.1:56549
+1488092481040	mozprofile::profile	INFO	Using profile path /var/folders/y3/yznd17rn66q1641t7_j2bt6drgvynm/T/rust_mozprofile.KIamz06EAoSi
+1488092481041	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1488092481043	geckodriver::marionette	INFO	Connecting to Marionette on localhost:56558
+1488092487630 Marionette: Element does not have an accessible object -> id: gsr, tagName: BODY, className: vasq srp
+JavaScript warning: https://normandy-cloudfront.cdn.mozilla.net/static/bundles/selfrepair-a26c82c370850b1be72d.052381136c5c.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1488092492449 Marionette: Element does not have an accessible object -> id: , tagName: BODY, className: user-page new-topbar

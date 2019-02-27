@@ -1,0 +1,10 @@
+[wait_for_object()] Waiting for element: login-email
+[wait_for_object()] Found element: login-email
+[wait_for_object()] Waiting for element: Swadhikar C
+[wait_for_object()] Found element: Swadhikar C
+[login()] Login successful!
+[wait_for_object()] Waiting for element: //span[@class='Sans-21px-black-85% identity-stat']
+[wait_for_object()] Found element: //span[@class='Sans-21px-black-85% identity-stat']
+[wait_for_object()] Waiting for element: //header[@class='me-wyva-insight-card']
+[wait_for_object()] Found element: //header[@class='me-wyva-insight-card']
+[profile_views()] Loaded profile views successfully!

@@ -1,0 +1,27 @@
+<customers>
+  <customer customerId="1">
+    <name>Howard Snyder</name>
+    <title>Marketing Manager</title>
+    <phone>(503) 555-7555</phone>
+  <company>HCL</company></customer>
+  <customer customerId="2">
+    <name>Yoshi Latimer</name>
+    <title>Sales Representative</title>
+    <phone>(503) 555-6874</phone>
+  <company>HCL</company></customer>
+  <customer customerId="3">
+    <name>John Steel</name>
+    <title>Marketing Manager</title>
+    <phone>(509) 555-7969</phone>
+  <company>HCL</company></customer>
+  <customer customerId="4">
+    <name>Jaime Yorres</name>
+    <title>Sr. Consultant</title>
+    <phone>(415) 555-5938</phone>
+  <company>HCL</company></customer>
+  <customer customerId="5">
+    <name>Chris Morris</name>
+    <phone>455 654 9859</phone>
+    <title>Sr. Software Developer</title>
+  </customer>
+<customer customerId="6"><name>Brendon McCullum</name><phone>456 789 4566</phone><title>Former NZ team captain</title></customer><customer customerId="7"><name>Swadhikar Chandramohan</name><title>Technical Lead</title><phone>044 4556 1033</phone></customer></customers>

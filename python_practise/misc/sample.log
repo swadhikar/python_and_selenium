@@ -1,0 +1,47 @@
+2017-03-19 16:51:26,458:__main__: Division by zero
+2017-03-19 16:51:49,974:__main__: Division by zero
+Traceback (most recent call last):
+  File "/Users/swadhikar_c/PycharmProjects/PySelenium/misc/log_test.py", line 28, in div
+    res = x / y
+ZeroDivisionError: integer division or modulo by zero
+2017-03-19 16:53:35,315:__main__: Division by zero
+Traceback (most recent call last):
+  File "/Users/swadhikar_c/PycharmProjects/PySelenium/misc/log_test.py", line 31, in div
+    res = x / y
+ZeroDivisionError: integer division or modulo by zero
+2017-03-19 16:54:14,114:__main__: Division by zero
+Traceback (most recent call last):
+  File "/Users/swadhikar_c/PycharmProjects/PySelenium/misc/log_test.py", line 32, in div
+    res = x / y
+ZeroDivisionError: integer division or modulo by zero
+2017-03-19 16:56:00,853:__main__: Division by zero
+Traceback (most recent call last):
+  File "/Users/swadhikar_c/PycharmProjects/PySelenium/misc/log_test.py", line 35, in div
+    res = x / y
+ZeroDivisionError: integer division or modulo by zero
+2017-03-19 16:57:54,252:__main__: 10 + 0 = 10
+2017-03-19 16:57:54,252:__main__: 10 - 0 = 10
+2017-03-19 16:57:54,252:__main__: 10 * 0 = 0
+2017-03-19 16:57:54,252:__main__: Division by zero
+Traceback (most recent call last):
+  File "/Users/swadhikar_c/PycharmProjects/PySelenium/misc/log_test.py", line 34, in div
+    res = x / y
+ZeroDivisionError: integer division or modulo by zero
+2017-03-19 16:57:54,253:__main__: 10 / 0 = None
+2017-03-19 16:58:06,627:__main__: 10 + 1 = 11
+2017-03-19 16:58:06,627:__main__: 10 - 1 = 9
+2017-03-19 16:58:06,627:__main__: 10 * 1 = 10
+2017-03-19 16:58:06,627:__main__: 10 / 1 = 10
+2017-03-19 16:58:47,969:__main__: Add: 10 + 1 = 11
+2017-03-19 16:58:47,970:__main__: Sub: 10 - 1 = 9
+2017-03-19 16:58:47,970:__main__: Mul: 10 * 1 = 10
+2017-03-19 16:58:47,970:__main__: Div: 10 / 1 = 10
+2017-03-19 16:59:19,957:__main__: Add: 10 + 1 = 11
+2017-03-19 16:59:19,957:__main__: Sub: 10 - 1 = 9
+2017-03-19 16:59:19,957:__main__: Mul: 10 * 1 = 10
+2017-03-19 16:59:19,957:__main__: Div: 10 / 1 = 10
+2017-03-19 16:59:46,206:__main__: Add: 10 + 1 = 11
+2017-03-19 16:59:46,207:__main__: Sub: 10 - 1 = 9
+2017-03-19 16:59:46,207:__main__: Mul: 10 * 1 = 10
+2017-03-19 16:59:46,207:__main__: Div: 10 / 1 = 10
+2017-03-19 16:59:46,207:__main__: Simple calculator successfully implemented!
