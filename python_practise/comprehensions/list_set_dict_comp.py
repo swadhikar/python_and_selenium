@@ -1,6 +1,5 @@
 num_list = range(1, 101)
 
-
 tall_buildings = {
     'burj khalifa':              828,
     'shanghai tower':            632,
@@ -57,7 +56,14 @@ def list_comprehension(num_list):
     """[2, 3, 5, 13, 89]"""
 
 
+def generator_statement(num_list=None):
+    fibo_primo = (num for num in num_list if is_prime(num) and is_fibonacci(num))
+    print(list(fibo_primo))
+    """[2, 3, 5, 13, 89]"""
+
+
 if __name__ == '__main__':
     set_comprehension(num_list)
     dict_comprehension(tall_buildings)
     list_comprehension(num_list)
+    generator_statement(num_list)
