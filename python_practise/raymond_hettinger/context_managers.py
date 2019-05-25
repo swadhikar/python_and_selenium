@@ -44,7 +44,7 @@ def main(t1=1000, t2=2000, t3=3000):
     t_raise_by_1 = Thread(target=raise_number_by, args=(1, t1), name='t1')
     t_raise_by_2 = Thread(target=raise_number_by, args=(1, t2), name='t2')
     t_raise_by_3 = Thread(target=raise_number_by, args=(1, t3), name='t3') # 1000, 2000, 3000 = 6000
-    
+
     for thread in (t_raise_by_1, t_raise_by_2, t_raise_by_3):
         thread.start()
 
@@ -54,64 +54,4 @@ def main(t1=1000, t2=2000, t3=3000):
     clear_number()
 
 
-#main()
-
-
-from pprint import pprint
-
-my_json = {
-  a: {
-    b: {
-      c: [
-        {
-          d: [
-            { f: 'some_string' }
-          ]
-        },
-        {
-          e: {
-            g: [
-              {h: 'another string'}
-            ]
-          }
-        }
-      ]
-    }
-  }
-  z: [
-    b: {
-      c: [
-        {
-          d: [
-            { f: 'some_string1' }
-          ]
-        },
-        {
-          e: {
-            g: [
-              h: 'another string1'
-            ]
-          }
-        }
-      ]
-    },
-    x: {
-      c: [
-        {
-          d: [
-            { f: 'some_string2' }
-          ]
-        },
-        {
-          e: {
-            g: [
-              {h: 'another string2'}
-            ]
-          }
-        }
-      ]
-    }
-  ]
-}
-
-pprint(word_dict)
+main()
