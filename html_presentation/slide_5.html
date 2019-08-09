@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Create context managers
+    </title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+    <div class="centercontainer">
+      <h2>Context Manager that returns objects</h2>
+      <ul>
+        <li>Often times, we require the objects returned by a context manager to deal with</li>
+        <li>For instance - the builtin <pre class="inlinecode">open</pre> function which is a
+          context manager returns the file descriptor that can be used to carry operations such aside
+          read, write and append to it
+          <pre class="inlinecode">with open('some_file', 'w') as fd:   <span class="cmt"># Note that fd is returned by "open"</span>
+    fd.write('Hola!')  <span class="cmt"># We make use of fd and carry out write operation</span><pre></li>
+        <li>To implement a fully functional context manager we require control to be returned
+        inside a <pre class="inlinecode">try-except</pre> block</li>
+        <li>Sqlite3 example ...</li>
+      </ul>
+
+    </div>
+
+    <a href="slide_4.html" class="prevButton">  <<  </a>
+    <a href="slide_6.html" class="nextButton">  >>  </a>
+
+  </body>
+</html>

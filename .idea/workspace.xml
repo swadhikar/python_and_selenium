@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="45b1911e-9b04-448a-975f-3800fa4c3164" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/html_presentation/sample.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_and_selenium" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_practise/data_classes/dataclass_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_practise/data_classes/dataclass_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_practise/Interview/viasat_11_May_2019.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+              <folding>
+                <element signature="e#55#274#0" />
+                <element signature="e#102#136#0" />
+                <element signature="e#180#207#0" />
+                <element signature="e#248#274#0" />
+                <element signature="e#304#706#0" />
+                <element signature="e#382#537#0" />
+                <element signature="e#470#517#0" />
+                <element signature="e#591#706#0" />
+                <element signature="e#642#706#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html_presentation/sample.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="7" lean-forward="true" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.6/random.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12665">
+              <caret line="753" selection-start-line="753" selection-end-line="753" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/python_practise/data_classes/dataclass_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/lib/python3.6/threading.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20791">
+              <caret line="1229" column="4" selection-start-line="1229" selection-start-column="4" selection-end-line="1229" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>init</find>
+      <find>init:</find>
+      <find>(IntegerList, self)</find>
+      <find>validate_init</find>
+      <find>odd_no_itr</find>
+      <find>__is_valid</find>
+      <find>simple_repeat</find>
+      <find>import log</find>
+      <find>log_util</find>
+      <find>Logger</find>
+      <find>log(</find>
+      <find>Waiting for</find>
+      <find>thread_safe_block</find>
+      <find>lock_thread</find>
+      <find>poll</find>
+      <find>EPOLLIN =</find>
+      <find>EPOLLIN</find>
+      <find>isit</find>
+      <find>test_list</find>
+      <find>sum_value</find>
+      <find>sum_of__squares</find>
+      <find>result_inde</find>
+      <find>.</find>
+      <find>',</find>
+      <find>, '</find>
+      <find>'Executed</find>
+      <find>args=(times,)</find>
+      <find>x</find>
+      <find>nth</find>
+      <find>Question</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>validate_int</replace>
+      <replace>validate_init</replace>
+      <replace>()</replace>
+      <replace>validate_list</replace>
+      <replace>prime_itr</replace>
+      <replace>__validate</replace>
+      <replace>s</replace>
+      <replace>simple_repeater</replace>
+      <replace>print(</replace>
+      <replace>lock_thread</replace>
+      <replace>acquire_thread_lock</replace>
+      <replace>is_fibo</replace>
+      <replace>test_list_1</replace>
+      <replace>result_index</replace>
+      <replace>result_index_num</replace>
+      <replace>{</replace>
+      <replace>}</replace>
+      <replace>f'Executed</replace>
+      <replace>args=(times,lock_)</replace>
+      <replace>n_th</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/python_practise/misc/kpmg.py" />
+        <option value="$PROJECT_DIR$/python_practise/misc/custom_iterator.py" />
+        <option value="$PROJECT_DIR$/python_practise/misc/custom_list.py" />
+        <option value="$PROJECT_DIR$/python_practise/misc/itertools.py" />
+        <option value="$PROJECT_DIR$/python_practise/misc/logfile.log" />
+        <option value="$PROJECT_DIR$/python_practise/misc/custom_itertools.py" />
+        <option value="$PROJECT_DIR$/python_practise/Interview/decorators/decorators_demo_3.py" />
+        <option value="$PROJECT_DIR$/python_practise/Interview/threads/images/thread_locker.py" />
+        <option value="$PROJECT_DIR$/mini_project/socket_programming/client.py" />
+        <option value="$PROJECT_DIR$/python_practise/comprehensions/list_set_dict_comp.py" />
+        <option value="$PROJECT_DIR$/python_practise/data_classes/dataclass_1.py" />
+        <option value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/share_data.py" />
+        <option value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/share_data_server_proc.py" />
+        <option value="$PROJECT_DIR$/python_practise/data_classes/dataclass_w2.py" />
+        <option value="$PROJECT_DIR$/python_practise/data_classes/dataclass_2.py" />
+        <option value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/multiprocess_pool.py" />
+        <option value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/multiprocess_queue.py" />
+        <option value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/threading_ways.py" />
+        <option value="$PROJECT_DIR$/python_practise/data_classes/dataclass_3.py" />
+        <option value="$PROJECT_DIR$/python_practise/Interview/viasat_11_May_2019.py" />
+        <option value="$PROJECT_DIR$/html_presentation/sample.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="808" />
+    <option name="y" value="24" />
+    <option name="width" value="822" />
+    <option name="height" value="680" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_and_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_and_selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_and_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_and_selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="html_presentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_and_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_and_selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="python_practise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_and_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_and_selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="python_practise" type="462c0819:PsiDirectoryNode" />
+              <item name="data_classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_and_selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_and_selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="python_practise" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/lovepythoncode" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_practise/misc/others" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.viasat_11_May_2019">
+    <configuration name="dataclass_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_and_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/data_classes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/data_classes/dataclass_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiprocess_pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_and_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/multiprocess_pool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multiprocess_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_and_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/multiprocess_queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="threading_ways" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_and_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/threading_ways.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="viasat_11_May_2019" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_and_selenium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_practise/Interview" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_practise/Interview/viasat_11_May_2019.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.viasat_11_May_2019" />
+        <item itemvalue="Python.dataclass_3" />
+        <item itemvalue="Python.threading_ways" />
+        <item itemvalue="Python.multiprocess_queue" />
+        <item itemvalue="Python.multiprocess_pool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b1911e-9b04-448a-975f-3800fa4c3164" name="Default Changelist" comment="" />
+      <created>1552622679419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552622679419</updated>
+    </task>
+    <task id="LOCAL-00001" summary="custom list and custom iterators">
+      <created>1554641822275</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554641822275</updated>
+    </task>
+    <task id="LOCAL-00002" summary="thread lock using context managers">
+      <created>1555250761658</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555250761658</updated>
+    </task>
+    <task id="LOCAL-00003" summary="list, set and dict comprehension">
+      <created>1555835107911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555835107911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dataclass and multiprocessing using python3.6">
+      <created>1555852593299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555852593299</updated>
+    </task>
+    <task id="LOCAL-00005" summary="multithreading ways">
+      <created>1556460019858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556460019859</updated>
+    </task>
+    <task id="LOCAL-00006" summary="viasat interview qns">
+      <created>1557593737153</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557593737153</updated>
+    </task>
+    <task id="LOCAL-00007" summary="viasat interview qns">
+      <created>1557636964943</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557636964944</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1366" height="729" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" sideWeight="0.5013405" side_tool="true" weight="0.23174366" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49684212" visible="true" weight="0.23157111" />
+      <window_info id="Structure" order="2" sideWeight="0.5031579" side_tool="true" weight="0.23174366" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3296" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" weight="0.3296" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3296" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49925485" weight="0.328" />
+      <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.44113263" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" x="10" y="99" width="1351" height="551" id="Run" order="10" sideWeight="0.5007452" side_tool="true" weight="0.3824" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.24944155" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="2" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" x="10" y="99" width="1347" height="549" id="Run" order="3" visible="true" weight="0.52272725" />
+    </layout-to-restore>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="custom list and custom iterators" />
+    <MESSAGE value="thread lock using context managers" />
+    <MESSAGE value="list, set and dict comprehension" />
+    <MESSAGE value="dataclass and multiprocessing using python3.6" />
+    <MESSAGE value="multithreading ways" />
+    <MESSAGE value="viasat interview qns" />
+    <option name="LAST_COMMIT_MESSAGE" value="viasat interview qns" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2019.1/system/python_stubs/-1247971764/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="3568" column="8" selection-start-line="3568" selection-start-column="8" selection-end-line="3568" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/Interview/threads/terminate_thread.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log_util/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#85#99#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lib_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="61" column="22" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2019.1/system/python_stubs/-1247971764/select.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="143" column="18" selection-start-line="143" selection-start-column="11" selection-end-line="143" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/misc/others/custom_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/misc/others/custom_iterator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/misc/others/custom_itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="113" selection-start-line="113" selection-end-line="113" />
+          <folding>
+            <element signature="e#42#206#0" />
+            <element signature="e#494#720#0" />
+            <element signature="e#989#1293#0" />
+            <element signature="e#1420#1731#0" />
+            <element signature="e#1455#1506#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/Interview/decorators/decorators_demo_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/threading.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="87" column="12" selection-start-line="87" selection-start-column="12" selection-end-line="87" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../.PyCharmCE2019.1/system/python_stubs/-1247971764/itertools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7174">
+          <caret line="422" column="6" selection-start-line="422" selection-start-column="6" selection-end-line="422" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/misc/others/logfile.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mini_project/socket_programming/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/Interview/threads/images/thread_locker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="28" column="26" lean-forward="true" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/py_ds/queue_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/misc/my_generator/i_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/comprehensions/list_set_dict_comp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-17">
+          <caret line="20" column="42" lean-forward="true" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/multiprocessing/process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/share_data.py" />
+    <entry file="file:///usr/lib/python3.6/multiprocessing/queues.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/share_data_server_proc.py" />
+    <entry file="file://$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/multiprocess_pool.py" />
+    <entry file="file://$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/multiprocess_queue.py" />
+    <entry file="file://$PROJECT_DIR$/python_practise/multiprocess/indian_pythonista/threading_ways.py" />
+    <entry file="file://$PROJECT_DIR$/python_practise/data_classes/dataclass_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/data_classes/dataclass_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12665">
+          <caret line="753" selection-start-line="753" selection-end-line="753" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/data_classes/dataclass_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.6/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20791">
+          <caret line="1229" column="4" selection-start-line="1229" selection-start-column="4" selection-end-line="1229" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/multiprocessing/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_practise/Interview/viasat_11_May_2019.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="45" column="3" selection-start-line="45" selection-start-column="3" selection-end-line="45" selection-end-column="3" />
+          <folding>
+            <element signature="e#55#274#0" />
+            <element signature="e#102#136#0" />
+            <element signature="e#180#207#0" />
+            <element signature="e#248#274#0" />
+            <element signature="e#304#706#0" />
+            <element signature="e#382#537#0" />
+            <element signature="e#470#517#0" />
+            <element signature="e#591#706#0" />
+            <element signature="e#642#706#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html_presentation/sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="7" lean-forward="true" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

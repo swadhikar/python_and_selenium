@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Create context managers
+    </title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+    <div class="centercontainer">
+      <h2>Ways to create Context Manager</h2>
+      <ul>
+        <li>Secondly, the class based implementation by using <pre class="inlinecode">__enter__</pre> and
+        <pre class="inlinecode">__exit__</pre> methods as below:<br>
+        <pre class="inlinecode">class OpenResource:
+    def __init__(self, resource_name):
+        self.resource = resource_name
+
+    def __enter__(self):
+        <span class="cmt"># open self.resource </span>
+        return self    <span class="cmt"># Returns the object by itself</span>
+
+    def __exit__(self, *args):
+        <span class="cmt"># close self.resource</span><pre></li>
+    </ul>
+    </div>
+
+    <a href="slide_3.html" class="prevButton"> << </a>
+    <a href="slide_5.html" class="nextButton"> >> </a>
+
+  </body>
+</html>

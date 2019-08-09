@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      Context Managers
+    </title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+  <div>
+      <div class="centercontainer">
+        <h2>Context Manager</h2>
+        <ul>
+          <li>Context managers allow you to allocate and release resources precisely when you want to</li>
+          <li>The most widely used example of context managers is the <pre class="inlinecode">with</pre> statement</li>
+          <li>Below codes are technically equal<br><pre class="code">with open('some_file', 'w') as f:
+    f.write('Hola!')
+    <span class="cmt"># File is automatically closed at this point</span></pre><br><br><br>
+            <pre class="code">f = open('some_file', 'w')<span class="cmt">  # Opens resource</span>
+f.write('Hola!')<span class="cmt">            # Carry out processing</span>
+f.close()<span class="cmt">                   # Closes the resource<span></pre>
+        </li>
+        </ul>
+      </div>
+
+     <a href="slide_0.html" class="prevButton">  <<  </a>
+     <a href="slide_2.html" class="nextButton">  >>  </a>
+  </div>
+
+  </body>
+</html>
