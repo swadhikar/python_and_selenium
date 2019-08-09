@@ -9,14 +9,30 @@
 
   <body>
     <div class="box">
-      <pre class="code">class Code:
-    """ Simple class """
+      <pre class="code">
+<span class="keywords">class</span> DBOperation:
+    insert_query = 'insert into department
+                    values<span class="function-call"> </span>(4, "Marketing", 432532)'
 
-    def func1():
-        pass
+    <span class="keywords">def</span> <span class="function-call">open_sqlite3_db</span>(dbname='test.db'):
+        conn = <span class="keywords">None</span>
+        <span class="keywords">try</span>:
+            conn = sqlite3.<span class="function-call">connect</span>(dbname)
+            <span class="keywords">yield</span> conn.<span class="function-call">cursor</span>()
+        <span class="keywords">except</span> Exception <span class="keywords">as</span> e:
+            <span class="function-call">print</span>("Error occcured:", e)
+        <span class="keywords">finally</span>:
+            # conn.<span class="function-call">commit</span>() # TODO: Uncomment this line
+            conn.<span class="function-call">close</span>()    # Resource cleanup
+            <span class="function-call">print</span>("Db connection has been closed")
 
-    def func2():
-        return 1</pre>
+
+<span class="keywords">if</span> <span class="special-method">__name__</span> == '<span class="special-method">__main__</span>':
+    <span class="keywords">with</span> <span class="function-call">open_sqlite3_db</span>() <span class="keywords">as</span> db_cursor:
+        db_cursor.<span class="function-call">execute</span>(insert_query)
+        <span class="function-call">print</span>('Data inserted successfully')
+
+</pre>
     </div>
   </body>
 

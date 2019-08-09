@@ -6,14 +6,40 @@ body {
 
 .box {
   width: 450px;
-  background: rgba(255, 255, 255, 0.3);
+  background: rgba(0, 0, 0, 0.5);
   padding: 40px;
   text-align: left;
   color: white;
   font-family: consolas, sans-serif, 'Century Gothic';
+  font-size: 14px;
   border-radius: 2%;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  line-height: 1.5;
+}
+
+.keywords {
+  color: #ff7300;
+  font-weight: bold;
+}
+
+.special-method {
+  color:  #1aff1a;
+  font-weight: normal;
+}
+
+.self {
+  color: #ff66cc;
+  font-weight: bold;
+}
+
+.function-call {
+  color: #66ffff;
+  /* font-weight: bold; */
+}
+
+.strings {
+  color: #00e600;
 }
