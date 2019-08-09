@@ -9,7 +9,7 @@ body {
   background: rgba(0, 0, 0, 0.9);
   padding: 40px;
   text-align: left;
-  color: white;
+  color: #ffffff;
   font-family: consolas, sans-serif, 'Century Gothic';
   font-size: 17px;
   border-radius: 2%;
@@ -51,4 +51,8 @@ body {
 
 .definition {
   color: #66a3ff;
+}
+
+.comments {
+  color: #b2b1b1;
 }

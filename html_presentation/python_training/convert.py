@@ -30,15 +30,34 @@ def tagify(string, class_name, tag='span'):
     return re.sub(string, r'<span class="{}">{}</span>'.format(class_name, string), string)
 
 def process_line(line):
+
+    # if line.lstrip().startswith('#'):
+    #     return '<span class="comments">' + line.rstrip('\n') + '</span>'
+
     result_line = ''
     string_started = False
     started_string = None
+    comment_started = False
 
     line_words = re.findall(r'\w+|[a-zA-Z]+|[#():,.= +\'\"@]|__\w+__', line)
     print(line_words)
 
     for index in range(len(line_words)):
         word = line_words[index]
+
+        if word == '#':
+            comment_started = True
+            word = '<span class="comments">' + word
+
+        if comment_started:
+            if index == len(line_words) - 1:
+                print('******comment ended******')
+                result_line += word + '</span>'
+                string_started = False
+                return result_line
+            else:
+                result_line += word
+            continue
 
         if string_started:
             if word == started_string:
@@ -71,7 +90,7 @@ def process_line(line):
         elif word in _self:
             word = tagify(word, class_name='self')
 
-        elif word in annotations:
+        elif word == '@' or line_words[index - 1] == '@':
             word = tagify(word, class_name='annotations')
 
         result_line += word
