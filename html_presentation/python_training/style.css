@@ -5,24 +5,26 @@ body {
 }
 
 .box {
-  width: 450px;
-  background: rgba(0, 0, 0, 0.5);
+  width: 700px;
+  background: rgba(0, 0, 0, 0.9);
   padding: 40px;
   text-align: left;
   color: white;
   font-family: consolas, sans-serif, 'Century Gothic';
-  font-size: 14px;
+  font-size: 17px;
   border-radius: 2%;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   line-height: 1.5;
+  border-style: solid;
+  border-color: #999999;
+  border-width: 2px;
 }
 
 .keywords {
   color: #ff7300;
-  font-weight: bold;
 }
 
 .special-method {
@@ -32,14 +34,21 @@ body {
 
 .self {
   color: #ff66cc;
-  font-weight: bold;
 }
 
 .function-call {
   color: #66ffff;
-  /* font-weight: bold; */
 }
 
 .strings {
-  color: #00e600;
+  color: #008000;
+  font-weight: bolder;
+}
+
+.annotations {
+  color: #ffff33;
+}
+
+.definition {
+  color: #66a3ff;
 }
